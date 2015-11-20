@@ -1,0 +1,28 @@
+name: Folio
+favicon: null
+layout_spectrum: 0.0396067479159683
+typography_spectrum: 0.9189228848554194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.45172330900095403
+  lightness: 0.05285303154960275
+  saturation: 0.48385063628666103
+  rhythmicContrast: 0.5720642062369734
+purpose: []
