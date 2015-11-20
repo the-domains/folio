@@ -4,7 +4,7 @@
         <description><![CDATA[title is for noobs]]></description>
         <link>https://thegrid.ai/folio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 10:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 10:56:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/folio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[lincoln continental]]></title>
@@ -48,10 +48,23 @@ parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies.
         </item>
         <item>
             <title><![CDATA[this is war]]></title>
-            <description><![CDATA[<article><h1>this is war</h1><p>jihasdi aosudhaous oh oh oh oho   h oho ho uh oho oh h   sdcsdsdf</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7affd87-9dbc-41a6-927d-90155fc6610c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>this is war</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam 
+lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam 
+viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent 
+et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt 
+congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed 
+arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, 
+pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id 
+magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra 
+tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices 
+accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at 
+malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis 
+parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies.
+ Mauris vitae nisi at sem facilisis semper ac in est.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7affd87-9dbc-41a6-927d-90155fc6610c.jpg"></article>]]></description>
             <link>https://thegrid.ai/folio/this-is-war/index.html</link>
             <guid isPermaLink="false">5c133d87-62cc-424a-99aa-83f2bf2d6678</guid>
-            <pubDate>Fri, 20 Nov 2015 10:37:08 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2015 10:55:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
