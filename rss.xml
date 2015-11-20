@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Folio]]></title>
-        <description><![CDATA[Folio]]></description>
+        <title><![CDATA[title is for noobs]]></title>
+        <description><![CDATA[title is for noobs]]></description>
         <link>https://thegrid.ai/folio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 10:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 10:52:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/folio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lincoln continental]]></title>
+            <description><![CDATA[<article><h1>lincoln continental</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam 
+lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam 
+viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent 
+et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt 
+congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed 
+arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Aenean ut gravida lorem. Ut turpis felis, 
+pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id 
+magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra 
+tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices 
+accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at 
+malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis 
+parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies.
+ Mauris vitae nisi at sem facilisis semper ac in est.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/459a9904-ded1-46ea-ba7b-a176dffc66c2.png"></article>]]></description>
+            <link>https://thegrid.ai/folio/lincoln-continental/index.html</link>
+            <guid isPermaLink="false">c87cc759-b4cb-4962-b6d9-d796aed421d5</guid>
+            <pubDate>Fri, 20 Nov 2015 10:52:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[qweqw qwe qwe qw ]]></title>
             <description><![CDATA[<article><h1>qweqw qwe qwe qw </h1><p>asdasdasdasd asd asd asd asd </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2211e11e-d403-4cdf-900b-7f7eab7d08d8.jpg"></article>]]></description>
