@@ -2,6 +2,7 @@ name: Folio
 favicon: null
 layout_spectrum: 0.49236
 typography_spectrum: 0.53654
+title: title is for noobs
 cta:
   domain: null
   bucket: null
